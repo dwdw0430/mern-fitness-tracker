@@ -73,12 +73,15 @@ th {
 }
 
 .form-group {
-    text-align: center;
+    font-size: 1.2em;
+    padding-left: 40%;
+    padding-right: 20%;
 }
 
 .form-control {
-    text-align: center;
+    margin: 2%;
     width: 50%;
+
 }
 
 
